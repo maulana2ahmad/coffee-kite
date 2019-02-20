@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Coffee Kite</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="get_same_coffee">Get Same Coffee</string>
+    <string name="log_in">LOG IN</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
